@@ -1,0 +1,42 @@
+{
+  "name": "mobileagentos",
+  "version": "0.1.0",
+  "description": "The open-source architecture layer for AI-native mobile apps",
+  "private": true,
+  "scripts": {
+    "build": "turbo run build",
+    "test": "turbo run test",
+    "dev:nova": "pnpm --filter nova-demo start",
+    "lint": "turbo run lint",
+    "typecheck": "turbo run typecheck",
+    "format": "prettier --write \"**/*.{ts,tsx,md,json}\"",
+    "clean": "rm -rf node_modules packages/*/dist packages/*/.turbo apps/nova-demo/.expo .turbo"
+  },
+  "keywords": [
+    "mobile",
+    "ai",
+    "agent",
+    "runtime",
+    "react-native",
+    "architecture"
+  ],
+  "author": "MobileAgentOS Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobileagentos/mobileagentos"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "prettier": "^3.0.0",
+    "turbo": "^1.10.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=20 <=22",
+    "pnpm": ">=9"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.29.7"
+  }
+}

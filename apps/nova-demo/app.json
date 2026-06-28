@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "NOVA Demo",
+    "slug": "nova-demo",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "resizeMode": "contain"
+    },
+    "platforms": ["ios", "android"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mobileagentos.novademo"
+    },
+    "android": {
+      "package": "com.mobileagentos.novademo"
+    }
+  }
+}
