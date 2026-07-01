@@ -1,0 +1,12 @@
+package ai.mobileagentos.compose.agent
+
+enum class AgentEventType {
+    INPUT_RECEIVED,
+    CONTEXT_SNAPSHOT_CREATED,
+    MEMORY_RETRIEVED,
+    PRIVACY_CHECKED,
+    AGENT_RESPONSE_GENERATED,
+    ACTIONS_SUGGESTED,
+    READINESS_CALCULATED,
+    SESSION_COMPLETED
+}

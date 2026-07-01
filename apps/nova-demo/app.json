@@ -15,7 +15,12 @@
       "bundleIdentifier": "com.mobileagentos.novademo"
     },
     "android": {
-      "package": "com.mobileagentos.novademo"
+      "package": "com.mobileagentos.novademo",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "permissions": []
     }
   }
 }

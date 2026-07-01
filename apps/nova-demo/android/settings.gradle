@@ -1,0 +1,60 @@
+rootProject.name = 'NOVA Demo'
+
+// Cache node command outputs to avoid repeated execution
+def getNodeModulePath(packageName, subPath = "") {
+    def output = ["node", "--print", "require.resolve('${packageName}/package.json')"].execute(null, rootDir).text.trim()
+    def packagePath = new File(output).getParentFile().getAbsolutePath()
+    return subPath.isEmpty() ? packagePath : new File(packagePath, subPath).getAbsolutePath()
+}
+
+def reactNativePath = getNodeModulePath('react-native')
+def expoPath = getNodeModulePath('expo')
+
+dependencyResolutionManagement {
+  repositoriesMode.set(RepositoriesMode.PREFER_PROJECT)
+  repositories {
+    // Prioritize google() and mavenCentral() for stable dependencies
+    google()
+    mavenCentral()
+    
+    // JitPack for GitHub-hosted libraries
+    maven { url 'https://www.jitpack.io' }
+    
+    // React Native local Maven
+    maven {
+      url(new File(reactNativePath, "android"))
+    }
+    
+    // JSC from node_modules
+    maven {
+      url(new File(["node", "--print", "require.resolve('jsc-android/package.json', { paths: [require.resolve('react-native/package.json')] })"].execute(null, rootDir).text.trim(), "../dist"))
+    }
+    
+    // Explicitly exclude Sonatype snapshots - causes timeout issues
+    // Maven snapshots for specific packages if absolutely needed
+    all { ArtifactRepository repo ->
+      if (repo instanceof MavenArtifactRepository) {
+        def url = repo.url.toString()
+        if (url.contains('oss.sonatype.org/content/repositories/snapshots')) {
+          // Remove snapshots repo
+          remove(repo)
+        }
+      }
+    }
+  }
+  
+  versionCatalogs {
+    reactAndroidLibs {
+      from(files(new File(reactNativePath, "gradle/libs.versions.toml")))
+    }
+  }
+}
+
+apply from: new File(expoPath, "scripts/autolinking.gradle");
+useExpoModules()
+
+apply from: new File(["node", "--print", "require.resolve('@react-native-community/cli-platform-android/package.json', { paths: [require.resolve('react-native/package.json')] })"].execute(null, rootDir).text.trim(), "../native_modules.gradle");
+applyNativeModulesSettingsGradle(settings)
+
+include ':app'
+includeBuild(new File(["node", "--print", "require.resolve('@react-native/gradle-plugin/package.json', { paths: [require.resolve('react-native/package.json')] })"].execute(null, rootDir).text.trim()).getParentFile())

@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView } from "react-native";
+import { StatusBar } from "expo-status-bar";
 import { createMobileAgent, InMemoryStore, createDefaultPrivacyGuard, createDefaultActionRouter } from "@mobileagentos/core";
 import { MobileAgentProvider } from "@mobileagentos/react-native";
 import HomeScreen from "./src/screens/HomeScreen";
@@ -45,6 +46,7 @@ export default function App() {
   return (
     <MobileAgentProvider agent={agent}>
       <SafeAreaView style={styles.container}>
+        <StatusBar style="dark" />
         <View style={styles.header}>
           <Text style={styles.headerTitle}>NOVA Demo</Text>
           {currentScreen !== "home" && (

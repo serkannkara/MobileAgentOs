@@ -42,6 +42,9 @@ importers:
       expo:
         specifier: ~50.0.0
         version: 50.0.21(@babel/core@7.29.7)(@react-native/babel-preset@0.73.21(@babel/core@7.29.7)(@babel/preset-env@7.29.7(@babel/core@7.29.7)))(react-native@0.73.6(@babel/core@7.29.7)(@babel/preset-env@7.29.7(@babel/core@7.29.7))(react@18.2.0))(react@18.2.0)
+      expo-status-bar:
+        specifier: ~1.11.1
+        version: 1.11.1
       fbjs:
         specifier: ^3.0.5
         version: 3.0.5
@@ -2190,6 +2193,9 @@ packages:
 
   expo-modules-core@1.11.14:
     resolution: {integrity: sha512-+W+A/jYJdWzA43KEAixhoArEb0EzTsS6T3tObYkZ1EHk8LaBT3hnFant52CnFTeVY4pqv4mgutBua2UQQMAWFA==}
+
+  expo-status-bar@1.11.1:
+    resolution: {integrity: sha512-ddQEtCOgYHTLlFUe/yH67dDBIoct5VIULthyT3LRJbEwdpzAgueKsX2FYK02ldh440V87PWKCamh7R9evk1rrg==}
 
   expo@50.0.21:
     resolution: {integrity: sha512-lY+HJdQcsTUbEtPhgT3Y2+WwKZdJiYN0Zq5yAOT9293N1TbdLbHCNkOUtFfTmK0JjwgSKbbH4kRlue7a4MJflg==}
@@ -7170,6 +7176,8 @@ snapshots:
   expo-modules-core@1.11.14:
     dependencies:
       invariant: 2.2.4
+
+  expo-status-bar@1.11.1: {}
 
   expo@50.0.21(@babel/core@7.29.7)(@react-native/babel-preset@0.73.21(@babel/core@7.29.7)(@babel/preset-env@7.29.7(@babel/core@7.29.7)))(react-native@0.73.6(@babel/core@7.29.7)(@babel/preset-env@7.29.7(@babel/core@7.29.7))(react@18.2.0))(react@18.2.0):
     dependencies:

@@ -39,3 +39,28 @@ pnpm-debug.log*
 # Misc
 .cache/
 *.tsbuildinfo
+
+# Android / Gradle
+*.iml
+.gradle/
+local.properties
+.idea/
+**/build/
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.ap_
+*.aab
+
+# Android Studio
+.navigation/
+captures/
+output.json
+
+# Keystore files
+*.jks
+*.keystore
+
+# IMPORTANT: We DO commit gradle-wrapper.jar
+# DO NOT add: gradle/wrapper/gradle-wrapper.jar
