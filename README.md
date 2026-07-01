@@ -19,6 +19,12 @@
 
  </div>
 
+<p align="center">
+  <img src="./docs/assets/mobileagentos-architecture.png" alt="MobileAgentOS architecture overview" width="900" />
+</p>
+
+---
+
  ---
 
  ## 🎯 The Problem
