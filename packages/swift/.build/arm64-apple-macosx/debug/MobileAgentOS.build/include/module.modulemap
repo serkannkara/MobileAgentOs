@@ -1,0 +1,3 @@
+module MobileAgentOS {
+    header "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/include/MobileAgentOS-Swift.h"
+}

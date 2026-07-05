@@ -1,0 +1,271 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/master.swiftdeps"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Actions/ActionPolicy.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionPolicy.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionPolicy.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionPolicy~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionPolicy.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionPolicy.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Actions/ActionResult.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionResult.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionResult.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionResult.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionResult.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Actions/ActionRouter.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionRouter.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionRouter.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionRouter~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionRouter.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionRouter.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Actions/AgentAction.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentAction.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentAction.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentAction~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentAction.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentAction.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Agent/AgentConfig.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentConfig.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentConfig.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentConfig.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentConfig.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Agent/AgentEvent.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentEvent.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentEvent.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentEvent.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentEvent.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Agent/AgentEventType.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentEventType.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentEventType.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentEventType~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentEventType.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentEventType.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Agent/AgentInput.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentInput.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentInput.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentInput~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentInput.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentInput.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Agent/AgentOutput.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentOutput.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentOutput.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentOutput~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentOutput.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentOutput.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Agent/AgentSession.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentSession.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentSession.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentSession.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentSession.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Agent/MobileAgentRuntime.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAgentRuntime.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAgentRuntime.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAgentRuntime~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAgentRuntime.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAgentRuntime.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Context/ContextEngine.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextEngine.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextEngine.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextEngine.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextEngine.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Context/ContextSignal.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSignal.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSignal.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSignal~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSignal.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSignal.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Context/ContextSignalType.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSignalType.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSignalType.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSignalType~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSignalType.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSignalType.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Context/ContextSnapshot.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSnapshot.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSnapshot.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSnapshot~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSnapshot.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ContextSnapshot.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Feedback/FeedbackEvent.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/FeedbackEvent.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/FeedbackEvent.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/FeedbackEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/FeedbackEvent.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/FeedbackEvent.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Feedback/FeedbackLoop.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/FeedbackLoop.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/FeedbackLoop.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/FeedbackLoop~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/FeedbackLoop.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/FeedbackLoop.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Memory/InMemoryStore.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/InMemoryStore.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/InMemoryStore.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/InMemoryStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/InMemoryStore.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/InMemoryStore.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Memory/MemoryEngine.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryEngine.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryEngine.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryEngine.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryEngine.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Memory/MemoryItem.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryItem.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryItem.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryItem.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryItem.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Memory/MemoryStore.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryStore.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryStore.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryStore.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryStore.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Privacy/PIIType.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PIIType.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PIIType.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PIIType~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PIIType.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PIIType.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Privacy/PrivacyGuard.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyGuard.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyGuard.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyGuard~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyGuard.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyGuard.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Privacy/PrivacyPolicy.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyPolicy.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyPolicy.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyPolicy~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyPolicy.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyPolicy.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Privacy/PrivacyResult.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyResult.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyResult.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyResult.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyResult.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Privacy/Redaction.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/Redaction.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/Redaction.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/Redaction~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/Redaction.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/Redaction.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Readiness/MobileAIReadiness.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAIReadiness.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAIReadiness.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAIReadiness~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAIReadiness.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAIReadiness.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Readiness/ReadinessCheck.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessCheck.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessCheck.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessCheck~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessCheck.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessCheck.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Readiness/ReadinessDimension.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessDimension.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessDimension.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessDimension~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessDimension.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessDimension.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Readiness/ReadinessReport.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessReport.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessReport.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessReport~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessReport.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessReport.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/Readiness/ReadinessScore.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessScore.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessScore.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessScore~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessScore.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessScore.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/UI/AgentState.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentState.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentState.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentState~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentState.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentState.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/UI/Components/ActionCenterView.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionCenterView.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionCenterView.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionCenterView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionCenterView.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ActionCenterView.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/UI/Components/AgentTimelineView.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentTimelineView.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentTimelineView.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentTimelineView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentTimelineView.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/AgentTimelineView.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/UI/Components/MemoryPanelView.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryPanelView.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryPanelView.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryPanelView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryPanelView.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MemoryPanelView.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/UI/Components/PrivacyModeCard.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyModeCard.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyModeCard.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyModeCard~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyModeCard.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/PrivacyModeCard.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/UI/Components/ReadinessBadge.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessBadge.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessBadge.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessBadge~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessBadge.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/ReadinessBadge.dia"
+  },
+  "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/Sources/MobileAgentOS/UI/MobileAgentProvider.swift": {
+    "dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAgentProvider.d",
+    "object": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAgentProvider.swift.o",
+    "swiftmodule": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAgentProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAgentProvider.swiftdeps",
+    "diagnostics": "/Users/sifre1234/Desktop/Projects/MobileAgentOS/packages/swift/.build/arm64-apple-macosx/debug/MobileAgentOS.build/MobileAgentProvider.dia"
+  }
+}
